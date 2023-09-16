@@ -1,3 +1,3 @@
-Name:杜泓毅\n
-School:NYCU\n
-Major:Electrical Engineering\n
+*Name:杜泓毅
+*School:NYCU
+*Major:Electrical Engineering
